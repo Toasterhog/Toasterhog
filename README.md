@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Toasterhog
 - 👀 I’m interested in toasters
 - 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate ..,
+- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me is by shaking a bag of chips
-- 😄 Pronouns: his/ham
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: numbers arn't breathable
 
 <!---
